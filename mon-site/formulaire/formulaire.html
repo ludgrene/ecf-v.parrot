@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulaire d'inscription</title>
+    <link rel="stylesheet" href="formulaire.css">
+    
+</head>
+<body>
+    <header>
+        <nav class="navi">
+            <div class="menu_nav">
+                <img class="logo" src="/image-site/img-travail/logo.png" alt="logo">
+                <ul class="nav_fill">
+                    <li class="lien"><a href="/index.html">Accueil</a></li>
+                    
+                </ul>
+                <div class="compte">
+                    <a class="connecter" href="#inscriptionForm">Se connecter</a>
+                </div>
+            </div>
+        </nav>  
+        
+    </header>
+<main>
+    <form id="inscriptionForm">
+        <label for="nom">Nom:</label>
+        <input type="text" id="nom" name="nom" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="password">Mot de passe:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">S'inscrire</button>
+    </form>
+</main>
+    
+
+    <script src="form.js"></script>
+</body>
+</html>
