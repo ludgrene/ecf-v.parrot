@@ -53,6 +53,12 @@ li {
     background-color: rgba(241,82,8,0.918);
 }
 
+.connecter {
+    text-transform: uppercase;
+    color: aliceblue;
+    text-decoration: none;
+}
+
 
 .gallery {
     display: flex;
