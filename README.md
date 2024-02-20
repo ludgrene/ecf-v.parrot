@@ -1,7 +1,7 @@
  Pour pouvoir profiter pleinement du programme vous aurez besoin de l'interface visual studio code avec live serveur comme extension installée
  une fois ces prérequis faits
 
-Ouvrez le dossier mon-site dans visual studio code ouvrez directement le fichier index.html et fait un run avec live serveur
+Ouvrez le dossier site dans visual studio code ouvrez directement le fichier index.html et fait un run avec live serveur
 
  vous aurez ainsi accès au site complet ,chaque bouton sont interactifs et changeants de couleur au survol pour vous permettre d'accéder plus rapidement à chaque section de la page.
 
