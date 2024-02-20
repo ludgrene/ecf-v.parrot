@@ -20,13 +20,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center; /* Ajout pour centrer verticalement */
-    padding: 1em; /* Ajout pour l'espacement */
+    padding: 1em;
 }
 
 .nav_fill {
     display: flex;
-    flex-wrap: wrap; /* Ajout pour permettre le retour à la ligne */
-    gap: 1em; /* Ajout pour l'espacement entre les éléments */
+    flex-wrap: wrap; 
+    gap: 1em; 
 }
 
 .lien {
@@ -38,7 +38,7 @@ header {
     color: aliceblue;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0.5em 1em; /* Ajout pour l'espacement intérieur */
+    padding: 0.5em 1em; 
 }
 
 .lien:hover{
@@ -49,7 +49,7 @@ header {
 .compte {
     background-color: brown;
     border-radius: 10px;
-    padding: 0.5em 1em; /* Ajout pour l'espacement intérieur */
+    padding: 0.5em 1em; 
 }
 
 .compte:hover{

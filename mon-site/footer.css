@@ -74,11 +74,7 @@ color: rgba(0, 221, 255, 0.865);
    transform: scale(3);
 }
 
-/* Styles existants */
 
-/* Votre CSS existant ici */
-
-/* Responsive adjustments */
 
 @media (max-width: 768px) {
     .footer_inform {

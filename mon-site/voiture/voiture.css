@@ -16,14 +16,14 @@ li {
 .menu_nav {
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Ajout pour centrer verticalement */
-    padding: 1em; /* Ajout pour l'espacement */
+    align-items: center; /* pour centrer verticalement */
+    padding: 1em; /*  pour l'espacement */
 }
 
 .nav_fill {
     display: flex;
-    flex-wrap: wrap; /* Ajout pour permettre le retour à la ligne */
-    gap: 1em; /* Ajout pour l'espacement entre les éléments */
+    flex-wrap: wrap; /*permettre le retour à la ligne */
+    gap: 1em; 
 }
 
 .lien {
@@ -35,7 +35,7 @@ li {
     color: aliceblue;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0.5em 1em; /* Ajout pour l'espacement intérieur */
+    padding: 0.5em 1em; /*  l'espacement intérieur */
 }
 
 .lien:hover{
@@ -46,7 +46,7 @@ li {
 .compte {
     background-color: brown;
     border-radius: 10px;
-    padding: 0.5em 1em; /* Ajout pour l'espacement intérieur */
+    padding: 0.5em 1em; /* l'espacement intérieur */
 }
 
 .compte:hover{
